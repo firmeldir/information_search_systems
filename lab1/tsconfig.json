@@ -1,0 +1,18 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "lib": ["es6", "es2020.string"],
+    "noImplicitAny": true,
+    "allowJs": false,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "target": "esnext",
+    "noEmit": true,
+    "esModuleInterop": true,
+    "isolatedModules": true,
+    "strictNullChecks": true
+  },
+  "exclude": ["node_modules", "**/node_modules"],
+  "include": ["src"]
+}
