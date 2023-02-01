@@ -1,0 +1,1 @@
+export { InvertedIndex } from './InvertedIndex';
